@@ -1,0 +1,72 @@
+
+    1-O que você entende por algoritmo, explique com suas palavras? 
+R : algoritomo está em todo lugar, a partid do momento que pensamos e vemos como seguir determinada situação já estamos trabalhando algoritmo
+    
+2-O que você entende por pseudocódigo, explique com suas palavras? 
+R: e a forma de como escrevemos 
+    
+3-O que você entende por um fluxograma, explique com suas palavras?
+ R :podemos defimir fluxograma é um conjunto de símbolos que são utilizados para representar graficamente as etapas de um procedimento criando
+   
+ 4-Escreva a função de cada símbolo utilizado em fluxogramas.? 
+R: terminal,processamento,entrada de dados,exibir
+    
+5-O que é uma constante? Dê dois exemplos.
+ R:São valores numéricos sem ponto decimal,-"\r": Carriage return, posiciona o cursor no início - "\n": Nova linha, posiciona o cursor no início da
+    
+6-O que é uma variável? Dê dois exemplos.
+ R: uma variável é um objeto?
+ (uma posição, frequentemente localizada na memória) , ex:idade: numa parte pode armazenar/  ex: etiqueta,pode ser armazenada tbm
+    
+7-Uma variável pode ser 2 tipos, quais são elas? Justifique sua resposta.
+ R :Uma variável pode ser classificada em dois tipos: Quantitativa,Qualitativa
+   
+ 8-Quais os tipos de dados de uma variável? Dê dois exemplos de cada tipo de dados.
+ R: tipo de dados para cada variável. Por exemplo, a variável nome, deve armazenar textos, já a variável idade deve armazenar apenas números inteiros (sem casa decimal)
+    
+9-Quando declaramos uma variável, o que não devemos fazer quando estamos escolhendo o nome dela?  Dê dois exemplos para cada item.
+
+    
+10-Escreva a declaração de uma variável do tipo boolean que recebe o valor true.
+R: boolean deuCerto;
+    deuCerto = true
+    
+11-Escreva a declaração de uma variável do tipo string que recebe o valor Ferrari.
+
+    
+12-Escreva a declaração de uma variável do tipo char que recebe o valor F para feminino, M para masculino e O para outro.
+
+    
+13-Escreva a declaração de uma variável do tipo string que recebe o valor carro21!.
+
+    
+14-Escreva a declaração de uma variável do tipo boolean que recebe o valor 35.
+
+    
+15-Escreva a declaração de uma variável do tipo integer que recebe o valor 2021.
+
+    
+16-Escreva a declaração de uma variável do tipo real que recebe o valor papagaio.
+
+    
+17-Faça um fluxograma que leia um número.
+
+        
+a-Se o número for positivo, armazene ele em uma variável com nome válido.
+b-Se o número for negativo, armazene ele em uma variável com nome válido.  
+c-No final mostrar o resultado.
+
+    
+18-Faça um fluxograma para ler um número e verificar se ele é par ou ímpar.
+       
+ a-Quando for par, deverá armazenar o valor em uma variável com nome válido.
+       
+ b-Quando for ímpar,  deverá armazenar o valor em uma variável com nome válido.
+        
+c-Exibir as duas variáveis no final do processamento.
+   
+ 19-Faça um fluxograma para ler uma variável numérica e exibi-la somente se a mesma for maior que 100, caso contrário deverá exibir o valor zero.
+   
+ 20-Faça um fluxograma que leia um número inteiro e mostre uma mensagem indicando se este número é par ou ímpar, e se é positivo ou negativo.
+   
+ 21-Sabendo-se que José tem direito a 15% de reajuste de salário, complete o diagrama abaixo:
